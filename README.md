@@ -1,2 +1,2 @@
 # read-later
-A simple CRUD application using node.js
+A simple Node.js CRUD application
